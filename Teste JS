@@ -1,0 +1,2 @@
+// index.js
+console.log("Olá, Mundo! Rodando com Docker e CI/CD!");
